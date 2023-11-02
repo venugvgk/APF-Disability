@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "My Awesome Book"
-  author: "Norah Jones"
+  title: "Digital Resource for Disability"
+  author: "APF"
   date: "11/2/2023"
   chapters:
     - index.qmd
