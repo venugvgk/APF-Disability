@@ -2,11 +2,11 @@
   {
     "listing": "/disability-guides/index.html",
     "items": [
-      "/disability-guides/autism/index.html",
       "/disability-guides/blindness/index.html",
       "/disability-guides/Hearing-Impairment/index.html",
       "/disability-guides/Leprosy-cured-persons/index.html",
-      "/disability-guides/Low-vision/index.html"
+      "/disability-guides/Low-vision/index.html",
+      "/disability-guides/autism/index.html"
     ]
   }
 ]
