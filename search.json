@@ -1,30 +1,121 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Digital Resource for Disability",
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "Summary",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "Summary\nIn summary, this book has no content whatsoever."
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming."
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "disability-guides/index.html",
+    "href": "disability-guides/index.html",
+    "title": "Disability Guides",
     "section": "",
-    "text": "In summary, this book has no content whatsoever."
+    "text": "Disability Guides\nThe disablity guides.\n\n\n\n\n\n\n\n\nAutism\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlindness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "disability-guides/autism/work.html",
+    "href": "disability-guides/autism/work.html",
+    "title": "Finding Work, Keeping It",
+    "section": "",
+    "text": "Finding Work, Keeping It"
+  },
+  {
+    "objectID": "disability-guides/autism/next-steps.html",
+    "href": "disability-guides/autism/next-steps.html",
+    "title": "Just Diagnosed - Next Steps",
+    "section": "",
+    "text": "Just Diagnosed - Next Steps"
+  },
+  {
+    "objectID": "disability-guides/autism/history.html",
+    "href": "disability-guides/autism/history.html",
+    "title": "History of Autism",
+    "section": "",
+    "text": "History of Autism"
+  },
+  {
+    "objectID": "disability-guides/autism/early-intervention.html",
+    "href": "disability-guides/autism/early-intervention.html",
+    "title": "Early Intervention",
+    "section": "",
+    "text": "Early Intervention"
+  },
+  {
+    "objectID": "disability-guides/autism/cures-and-remedies.html",
+    "href": "disability-guides/autism/cures-and-remedies.html",
+    "title": "Caution: Cures and Remedies",
+    "section": "",
+    "text": "Caution: Cures and Remedies"
+  },
+  {
+    "objectID": "disability-guides/autism/about.html",
+    "href": "disability-guides/autism/about.html",
+    "title": "What is Autism?",
+    "section": "",
+    "text": "What is Autism?"
+  },
+  {
+    "objectID": "disability-guides/autism/adulting.html",
+    "href": "disability-guides/autism/adulting.html",
+    "title": "Adulting on the Spectrum",
+    "section": "",
+    "text": "Adulting on the Spectrum"
+  },
+  {
+    "objectID": "disability-guides/autism/diagnosis.html",
+    "href": "disability-guides/autism/diagnosis.html",
+    "title": "Getting a Diagnosis",
+    "section": "",
+    "text": "Getting a Diagnosis"
+  },
+  {
+    "objectID": "disability-guides/autism/education.html",
+    "href": "disability-guides/autism/education.html",
+    "title": "Education & Schooling",
+    "section": "",
+    "text": "Education & Schooling"
+  },
+  {
+    "objectID": "disability-guides/autism/index.html",
+    "href": "disability-guides/autism/index.html",
+    "title": "Autism",
+    "section": "",
+    "text": "Autism"
+  },
+  {
+    "objectID": "disability-guides/autism/perspectives.html",
+    "href": "disability-guides/autism/perspectives.html",
+    "title": "People’s Perspectives",
+    "section": "",
+    "text": "People’s Perspectives"
+  },
+  {
+    "objectID": "disability-guides/blindness/index.html",
+    "href": "disability-guides/blindness/index.html",
+    "title": "Blindness",
+    "section": "",
+    "text": "Blindness"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Preface",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
   },
   {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "References"
   }
 ]
