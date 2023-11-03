@@ -9,7 +9,7 @@ toc: false
 
 # Disability Guides
 
-The disablity guides.
+The disablity guides
 
 ::: {#sample-listings}
 :::
