@@ -1,21 +1,58 @@
 project:
-  type: book
+  type: website
+  render:
+    - "*.qmd"
+    - "*/*.qmd"
+    - "disability-guides/*/*.qmd"
 
-book:
+website:
   title: "Digital Resource for Disability"
-  author: "APF"
-  date: "11/2/2023"
-  chapters:
-    - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+  # author: "APF"
+  # date: "11/2/2023"
+  page-navigation: true
 
-bibliography: references.bib
+  navbar:
+    left:
+      - about.qmd
+      - disability-and-society.qmd
+
+      - disability-guides/index.qmd
+
+  sidebar:
+    - id: default
+      style: docked
+      contents: []
+
+    - id: autism
+      contents:
+        - disability-guides/autism/about.qmd
+        - disability-guides/autism/history.qmd
+        - disability-guides/autism/perspectives.qmd
+        - disability-guides/autism/diagnosis.qmd
+        - disability-guides/autism/next-steps.qmd
+        - disability-guides/autism/early-intervention.qmd
+        - disability-guides/autism/cures-and-remedies.qmd
+        - disability-guides/autism/education.qmd
+        - disability-guides/autism/work.qmd
+        - disability-guides/autism/adulting.qmd
+
+  # sidebar:
+  #   - id: default
+  #     style: docked
+  #     contents: auto
+  #   - id: disability-guides
+  #     contents:
+  #       - disability-guides/autism.qmd
+  #       - disability-guides/blindness.qmd
+
+# bibliography: references.bib
 
 format:
   html:
     theme: cosmo
+    toc: true
+    page-layout: full
+
   # pdf:
   #   documentclass: scrreprt
 

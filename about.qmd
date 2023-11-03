@@ -1,1 +1,14 @@
-# About the book
+---
+sidebar: false
+---
+# About the Resource
+
+## Why the resource?
+
+## Who made this resource?
+
+## How has this been made? Maintenance?
+
+## What is included in the resource? Why?
+
+## Navigation

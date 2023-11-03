@@ -1,0 +1,16 @@
+---
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  id: sample-listings
+sidebar: false
+toc: false
+---
+
+# Disability Guides
+
+The disablity guides.
+
+::: {#sample-listings}
+:::
+
