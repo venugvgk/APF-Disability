@@ -26,6 +26,7 @@ website:
     - id: autism
       contents:
         - disability-guides/autism/about.qmd
+        - disability-guides/autism/identification-causes.qmd
         - disability-guides/autism/history.qmd
         - disability-guides/autism/perspectives.qmd
         - disability-guides/autism/diagnosis.qmd
