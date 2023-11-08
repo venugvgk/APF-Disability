@@ -57,7 +57,7 @@ We need to see disability not just as a product of the biological factors, but a
 
 This is what we mean when we say that a disability can be looked at from a broader lens, the bio-psycho-social lens. When we see the biological, as well as the psychological and social implications of it, we can see the range of factors that affect the person living with disability. It can then help us address disability and related issues in a more holistic manner. 
 
-## How should we work with disability?
+# How should we work with disability?
 
 Let us now look at what we need to keep in mind with respect to interventions for disability. Here, we use the word intervention to mean anything that improves the quality of life for people living with disabilities. Choosing to get a pair of glasses for a person who cannot see well is an intervention, getting a hearing implant for someone with hearing impairment is an intervention, speech therapy is an intervention. What should be the nature of these interventions? How can one choose between various options? Some of what we say here may sound like common sense, but it is important that we be clear about how we make our choices as disabled people, and their parents, teachers, therapists, and social workers.  
 
@@ -69,5 +69,5 @@ Another aspect to see is if the interventions are family centric and consider th
 
 When we think along these lines, interventions need to be strengths based - they presume competence and use the strengths of the person to make progress. They need to be functional - helpful in improving the quality of life of the person. They need to be situated in the context of the family and community - they account for who the person is, the family and the community they live in and what they aspire to do in that setting. 
 
-## What is inclusion?
+# What is inclusion?
 
