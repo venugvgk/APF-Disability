@@ -3,13 +3,12 @@ listing:
   contents: "*/index.qmd"
   type: default
   id: sample-listings
-sidebar: false
-toc: false
+sidebar: true
+toc: true
 ---
 
 # Disability Guides
 
-The disablity guides
 
 ::: {#sample-listings}
 :::
