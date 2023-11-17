@@ -1,7 +1,7 @@
 ---
 listing:
   contents: "*/index.qmd"
-  type: grid
+  type: default
   id: sample-listings
 sidebar: false
 toc: false
