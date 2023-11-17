@@ -13,10 +13,11 @@ website:
 
   navbar:
     left:
-      - about.qmd
-      - disability-and-society.qmd
-
       - disability-guides/index.qmd
+      - disability-and-society.qmd
+      - about.qmd
+      
+     
 
   sidebar:
     - id: default
