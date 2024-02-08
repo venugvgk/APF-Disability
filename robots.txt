@@ -1,1 +1,1 @@
-Sitemap: https://github.com/venugvgk/APF-Disability/sitemap.xml
+Sitemap: https://venugvgk.github.io/APF-Disability/sitemap.xml
