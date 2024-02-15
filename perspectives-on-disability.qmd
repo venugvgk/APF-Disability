@@ -1,6 +1,9 @@
 # Perspectives on Disability
+This section presents various perspectives on disability starting from how to understand disability, how to respond to the idea of disability and goes on to explore a few themes like educaiton, family life, employment, sexuality etc. in the context of disability. 
 
-## Understanding disability
+# Understanding disability
+
+## What is disability?
 
 As people who are dealing with or working with disabilities, we naturally want to learn more about specific disabilities, be it autism, vision impairment, hearing impairment etc. However, it may make sense to step back to try and understand the concept of disability.  
 
@@ -22,7 +25,8 @@ When seen this way, ‘disability’ is a status descriptor that attaches to a p
 
 + acknowledges that it may actually or potentially diminish the person’s wellbeing.  
 
-## Social and policy responses 
+
+### Social and policy responses 
 
 The Indvidual identified as disabled, or their immediate caregivers might initiate their own responses to adapt to the challenges arising out of the disability. In addition, disability calls for moral responses that include the duty of care and concern that is expected both out of the primary caregivers and the society at large, including policy responses. The notion of care is not meant as a response of pity or compassion. It is the idea of an ethic of care that is part of a broader set of moral considerations, including respect, responsibility, inclusion, and justice.  
 
@@ -41,7 +45,7 @@ This view adopts values that do not see disability as natural disadvantage. Disa
 This view also acknowledges that prejudice and ignorance may make social structures and processes less inclusive of disabilities. So systematic attempts to remove stigma and gaps in knowledge that prevent inclusion is a necessary component of possible responses. A long and sustained programme of advocacy that tackles systemic exclusion and leads to more conducive social policy environment is equally important. 
 
 
-# Bio-psycho-social model of disability
+## Models of Disability 
 
 With this understanding of disability, we can see that it puts people living with disabilities on the same equal platform as everyone else, as it should. We can now look at the various aspects of living with disability that we need to account for.  
 
@@ -57,7 +61,7 @@ We need to see disability not just as a product of the biological factors, but a
 
 This is what we mean when we say that a disability can be looked at from a broader lens, the bio-psycho-social lens. When we see the biological, as well as the psychological and social implications of it, we can see the range of factors that affect the person living with disability. It can then help us address disability and related issues in a more holistic manner. 
 
-# How should we work with disability?
+## Responding to disability
 
 Let us now look at what we need to keep in mind with respect to interventions for disability. Here, we use the word intervention to mean anything that improves the quality of life for people living with disabilities. Choosing to get a pair of glasses for a person who cannot see well is an intervention, getting a hearing implant for someone with hearing impairment is an intervention, speech therapy is an intervention. What should be the nature of these interventions? How can one choose between various options? Some of what we say here may sound like common sense, but it is important that we be clear about how we make our choices as disabled people, and their parents, teachers, therapists, and social workers.  
 
@@ -69,5 +73,193 @@ Another aspect to see is if the interventions are family centric and consider th
 
 When we think along these lines, interventions need to be strengths based - they presume competence and use the strengths of the person to make progress. They need to be functional - helpful in improving the quality of life of the person. They need to be situated in the context of the family and community - they account for who the person is, the family and the community they live in and what they aspire to do in that setting. 
 
-# What is inclusion?
+## What should be be the response of the society to disability?	
+"How should the society respond to the presence of disability? Is it unfortunate? Unavoidable? To be tolerated? What rights, obligations or expectations can PwD have on the society?"
+## Why should the society care for PwD?	
+Why should society care for people who are disabled? What are the different perspectives? How should people with disability regard the society? 
 
+## Equality versus equity	
+What is equity? and equality? What does the difference mean for the our actions when addressing a disadvantage?
+## Ethical considerations in dealing with disability	
+
+## Principal - agent issues in caring for PwD	
+In many instances, PwD are represented by other people. what sort of concerns arise from this?
+
+## Dependence as a reality - not just for PwD	
+What is dependence? Does being a PwD mean one is or has to be more dependent on others?
+
+## Being a woman with disability	
+In the current society, how is it to be a woman with disabilities? Is there a double disadvantage? How to handle this?
+
+## Feminism and disability	
+Feminism has been a response to the exclusion of women. People with disability have also been excluded. How does adopting a feminist point of view change our perspective on disability? 
+
+## Disability in literature - Where are the disabled heroes?	
+Exploring the representation of disability in the media around us, starting from textbooks and children's literature.
+
+## Common barriers to participation of people with disability	
+## Disability policy considerations - Rights of PwD	
+What should be the policy considerations when dealing with rights of PwD? May be compare with what should be, what it is elsewhere in other countries and what is in India
+
+## Dealing with negative attitudes towards disability	
+
+## Critical disability theory	
+
+## Disability as identity	
+Many PwD, like visually impaired or hearing impaired, identify themselves with the disability. How does disability as identity work? What does it lead to?
+
+## Activism in Disability
+Exploring activism among disabled population. Which populations are represented and excluded from the activist space?
+
+## Disability and Justice	
+
+## Cognitive disability and moral status	
+People who have cognitive disabilities are different from us. It is easy to assume they do not know or understand. What are the moral implications of such stances?
+
+## Autonomy and support	
+
+## Disability and health (physical and mental health)	
+
+# Education
+
+## The nature and purpose of education for PwD	
+Importance of education for PwD, What should the nature of education be?, How PwD can add to diverse skillsets with the right mentoring
+
+## What is inclusive education?	
+What does inclusive education mean? What makes an inclusive learning environment?
+
+## Inclusive schools versus special schools	
+When to consider special school? Importance of exposure to regular classrooms, Transitioning from special school to inclusive school
+
+## Edcuation for a livelihood	
+
+## Vocational education versus conventional education	
+What is vocational education? How to choose between the two? Available options
+
+## Sensitisation training for educators	
+Importance of training educators to work with PwD, incorporating inclusive practices
+
+## Assistive technology in education	
+The various options of assistive teachnology available in education, Integrating assistive technology into curriculum
+
+## Inclusive assessment practices	
+Importance of inclusivity in assessments, Strategies to practise inclusion during assessments
+
+## Barriers to education for students with disability	
+Accessibilty (physical barriers + learning materials), attitude, funding, specialists
+
+## Inclusive extra curricular activities	
+Importance of extra curricular activities for PwD, Strategies to make activities inclusive
+
+## Role of education in promoting social justice and inclusion	
+## Higher education	
+Issues and practices
+
+# PwD and Family 
+
+## Impact of disability on family	
+How the disability comes as a surprise and the family's lives suddenly revolve around the disability until they have things figured out
+
+## How families support disability?	
+
+## Financial management	
+The impact of disability on finances and schemes through which family can manage finances
+
+## Impact on career decisions
+Primary caregivers may have to modify the career plans they had for themselves
+
+## Respite care
+Importance of respite care  to avoid caregiver burnout, Challenges in finding and affording one
+
+## Social isolation	
+Facing social isolation and stigma, both for the PwD and the family, limited opportunities for social/ community interaction
+
+# Employment
+
+## Ableism in workplace	
+
+## Economic independence and dignity for PwD
+Role of economic independence in the independence of PwD, how it can contribute to their well-being and how their contribution can be helpful
+
+## Disability employment gap	
+
+## Inclusive work culture
+Understanding the importance of fostering an inclusive workplace culture, initiatives and strategies to promote diversity and inclusion for all employees.
+
+## sensitisation programs in workplace	
+Addressing stereotypes and promoting a culture of respect.
+
+## Equity in payment	
+
+## Career advancement barriers
+Challenges in progressing and how can we best support for them to overcome them? What can PwD do from their end to overcome these challenges?
+
+# Sexuality
+
+## Understanding sexuality	
+## Gender and disability
+Role of gender in disability, societal views
+
+## Intersection of disability and sexuality	
+
+## Societal attitudes and stereotypes	
+societal attitudes around disability and sexuality - general myths and debunking them
+
+## Sex education for PwD
+Puberty, menstrual management, health and hygiene, sexual expression, sexual identity, 
+
+## Inclusive sexuality education in school
+Sexuality and personal safety in the context of disabilities	
+
+## Body image and self-esteem	
+
+## Relationship and dating
+Navigating the challenges and opportunities in dating and forming relationships with a disability. Success stories and advice from individuals with disabilities in fulfilling relationships.
+
+## Building a family
+Things to consider before planning for a family, 
+
+## Disability and LGBTQ+ identities	
+
+## Media respresentation of disabilities concerning sexuality	
+
+## Ethical dilemmas	
+How much content is appropriate? When should they start sex ed? Who decides what is best for the person with disability?
+
+## Accessible sexual health services	
+
+# Lifelong Care and Support
+
+## Models of long term care	
+Institutional, community and home care
+
+## Assistive technology in lifelong care and support
+How it can be helpful - for caregivers and PwD, Available options
+
+## Family dynamics and lifelong support	
+Role of families in providing lifelong support and care for PwD. Strategies for fostering strong family relationships.
+
+## Independence and community intergration	
+
+## Accessible housing options	
+
+## Financial planning assistance	
+
+## Transitioning into adulthood	
+Service providers supporting the transition
+
+## Self-advocacy	
+
+## Personalisation of support	
+Individualized support - importance and feasibility
+
+## Reliability and flexibility of support	
+
+# Designing Programs for Disability
+
+## Who should design it and How?	
+PwD being a part of designing the program
+
+## Importance of leisure activities/ hobby clubs	
+
+## Dealing with emotional regulation in PwD	
