@@ -13,11 +13,10 @@ website:
 
   navbar:
     left:
+      - perspectives-on-disability.qmd
       - disability-guides/index.qmd
-      - disability-and-society.qmd
-      - about.qmd
       - support.qmd
-      
+      - about.qmd
      
 
   sidebar:
