@@ -6,7 +6,7 @@ project:
     - "disability-guides/*/*.qmd"
 
 website:
-  title: "Digital Resource for Disability"
+  title: "Diversipedia"
   # author: "APF"
   # date: "11/2/2023"
   page-navigation: true
