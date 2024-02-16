@@ -588,11 +588,39 @@
     "text": "Preface\nPersons with Disabilities (PwD) are a hugely underserved population across the world. Despite the tremendous amount of work being done by both the government and non-government actors in the disability space in India, information about various aspects of disabilities is still out of the reach of many people who need it. In many cases, well known and credible sources of information are not India-specific. A lot of such information is not readily usable.\nDiversipedia is an attempt to provide India specific information related to the 21 disabilities listed in the Rights of PwD act, 2016. We aspire to provide readily usable information to all the stakeholders in the disability space, including Pwd, their caregivers, agencies working with them etc. Here, we cover the various aspects of disability, starting from perspectives on the meaning and implications of disability, to disability specific guides that provide specific information related issues across the lifecycle, to various governmental and non-governmental sources of support. Diversipedia also includes resources to learn more, provides a directory of service providers as well as forums where people can interact with each other.\nPlease get in touch with abcd@xyz to join this effort. Thank you!"
   },
   {
-    "objectID": "disability-guides/locomotor-disabilities/index.html",
-    "href": "disability-guides/locomotor-disabilities/index.html",
-    "title": "Locomotor Disabiltieis",
+    "objectID": "disability-guides/parkinsons-disease/index.html",
+    "href": "disability-guides/parkinsons-disease/index.html",
+    "title": "Parkinson’s Disease",
     "section": "",
-    "text": "Locomotor Disabiltieis"
+    "text": "Parkinson’s Disease"
+  },
+  {
+    "objectID": "disability-guides/mental-illness/index.html",
+    "href": "disability-guides/mental-illness/index.html",
+    "title": "Mental Illness",
+    "section": "",
+    "text": "Mental Illness"
+  },
+  {
+    "objectID": "disability-guides/intellectual-disability/index.html",
+    "href": "disability-guides/intellectual-disability/index.html",
+    "title": "Intellectual Disability",
+    "section": "",
+    "text": "Intellectual Disability"
+  },
+  {
+    "objectID": "disability-guides/hemophilia/index.html",
+    "href": "disability-guides/hemophilia/index.html",
+    "title": "Hemophilia",
+    "section": "",
+    "text": "Hemophilia"
+  },
+  {
+    "objectID": "disability-guides/chronic-neurological-conditions/index.html",
+    "href": "disability-guides/chronic-neurological-conditions/index.html",
+    "title": "Chronic Neurological Conditions",
+    "section": "",
+    "text": "Chronic Neurological Conditions"
   },
   {
     "objectID": "disability-guides/blindness/index.html",
@@ -614,12 +642,12 @@
   {
     "objectID": "disability-guides/autism/index.html",
     "href": "disability-guides/autism/index.html",
-    "title": "Autism Guide",
+    "title": "Autism Spectrum Disorder",
     "section": "",
-    "text": "Autism Guide\nThis guide deals with autism and various aspects of living with it.\nWe start with an overview of autism outlining the entire autism lifecycle as a precursor. Then we discuss how to identify autism, how common it is, what causes and what does not cause autism.\nIn the next section, we outline a history of autism, starting from early definitions and trace the path down to various developments in understanding and dealing with autism.\nWe then present perspectives of people living with autism, including people on the spectrum, families living with autism, medical professionals, and social workers. We attempot to cover the lifecycle of autism by including perspectives from different age groups.\nIn the next section, we address the diagnosis process starting from the need to diagnosis to the actual process of getting a diagnosis. We also include diagnosis for older people.\nIn the next two sections, we outline the immediate steps a family can take when they receive a diagnosis and proceed to explore various approaches to early intervention.\nWe then strike a cautionary note as we talk about alternative approaches to autism that are consider ineffective and sometimes, dangerous. This is done to ensure we provide all the necessary information.\nWe then proceed to education and schooling where we examine the goals and approaches to education and schooling in the Indian context.\nThe next section covers employment where we outline how people on the spectrum can train for work. We also provide some resources that can help them find and keep work.\nThe final section deals with being an adult on the spectrum.",
+    "text": "Autism Spectrum Disorder\nThis guide deals with autism and various aspects of living with it.\nWe start with an overview of autism outlining the entire autism lifecycle as a precursor. Then we discuss how to identify autism, how common it is, what causes and what does not cause autism.\nIn the next section, we outline a history of autism, starting from early definitions and trace the path down to various developments in understanding and dealing with autism.\nWe then present perspectives of people living with autism, including people on the spectrum, families living with autism, medical professionals, and social workers. We attempot to cover the lifecycle of autism by including perspectives from different age groups.\nIn the next section, we address the diagnosis process starting from the need to diagnosis to the actual process of getting a diagnosis. We also include diagnosis for older people.\nIn the next two sections, we outline the immediate steps a family can take when they receive a diagnosis and proceed to explore various approaches to early intervention.\nWe then strike a cautionary note as we talk about alternative approaches to autism that are consider ineffective and sometimes, dangerous. This is done to ensure we provide all the necessary information.\nWe then proceed to education and schooling where we examine the goals and approaches to education and schooling in the Indian context.\nThe next section covers employment where we outline how people on the spectrum can train for work. We also provide some resources that can help them find and keep work.\nThe final section deals with being an adult on the spectrum.",
     "crumbs": [
       "Perspectives on Disability",
-      "Autism Guide"
+      "Autism Spectrum Disorder"
     ]
   },
   {
@@ -1213,18 +1241,11 @@
     ]
   },
   {
-    "objectID": "disability-guides/Leprosy-cured-persons/index.html",
-    "href": "disability-guides/Leprosy-cured-persons/index.html",
-    "title": "Leprosy Cured Persons",
+    "objectID": "disability-guides/Low-vision/index.html",
+    "href": "disability-guides/Low-vision/index.html",
+    "title": "Low Vision",
     "section": "",
-    "text": "Leprosy Cured Persons"
-  },
-  {
-    "objectID": "directory.html",
-    "href": "directory.html",
-    "title": "Directory",
-    "section": "",
-    "text": "Directory\nThis page is the place host a directory of service providers.\nService providers are listed with attributes like city, locality, services provided (physiotherapy, speech therapy etc.), disabilities addressed, etc. to make it easy for users to search for appropriate service providers."
+    "text": "Low Vision"
   },
   {
     "objectID": "disability-guides/Hearing-Impairment/index.html",
@@ -1234,11 +1255,25 @@
     "text": "Hearing Impairment"
   },
   {
-    "objectID": "disability-guides/Low-vision/index.html",
-    "href": "disability-guides/Low-vision/index.html",
-    "title": "Low Vision",
+    "objectID": "directory.html",
+    "href": "directory.html",
+    "title": "Directory",
     "section": "",
-    "text": "Low Vision"
+    "text": "Directory\nThis page is the place host a directory of service providers.\nService providers are listed with attributes like city, locality, services provided (physiotherapy, speech therapy etc.), disabilities addressed, etc. to make it easy for users to search for appropriate service providers."
+  },
+  {
+    "objectID": "disability-guides/Leprosy-cured-persons/index.html",
+    "href": "disability-guides/Leprosy-cured-persons/index.html",
+    "title": "Leprosy Cured Persons",
+    "section": "",
+    "text": "Leprosy Cured Persons"
+  },
+  {
+    "objectID": "disability-guides/acid-attack-survivors/index.html",
+    "href": "disability-guides/acid-attack-survivors/index.html",
+    "title": "Acid Attack Survivors",
+    "section": "",
+    "text": "Acid Attack Survivors"
   },
   {
     "objectID": "disability-guides/autism/adulting.html",
@@ -1555,7 +1590,28 @@
     "href": "disability-guides/index.html",
     "title": "Disability Guides",
     "section": "",
-    "text": "Disability Guides\n\n\n\n\n\n\n\n\n\n\nAutism Guide\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlindness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHearing Impairment\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeprosy Cured Persons\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocomotor Disabiltieis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLow Vision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Disability Guides\n\n\n\n\n\n\n\n\n\n\nAcid Attack Survivors\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAutism Spectrum Disorder\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlindness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChronic Neurological Conditions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHearing Impairment\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHemophilia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntellectual Disability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeprosy Cured Persons\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocomotor Disabiltieis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLow Vision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Illness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMuscular Distrophy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nParkinson’s Disease\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSickle Cell Disease\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "disability-guides/locomotor-disabilities/index.html",
+    "href": "disability-guides/locomotor-disabilities/index.html",
+    "title": "Locomotor Disabiltieis",
+    "section": "",
+    "text": "Locomotor Disabiltieis"
+  },
+  {
+    "objectID": "disability-guides/muscular-distrophy/index.html",
+    "href": "disability-guides/muscular-distrophy/index.html",
+    "title": "Muscular Distrophy",
+    "section": "",
+    "text": "Muscular Distrophy"
+  },
+  {
+    "objectID": "disability-guides/sickle-cell-disease/index.html",
+    "href": "disability-guides/sickle-cell-disease/index.html",
+    "title": "Sickle Cell Disease",
+    "section": "",
+    "text": "Sickle Cell Disease"
   },
   {
     "objectID": "forums.html",

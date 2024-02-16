@@ -2,12 +2,27 @@
   {
     "listing": "/disability-guides/index.html",
     "items": [
+      "/disability-guides/acid-attack-survivors/index.html",
       "/disability-guides/autism/index.html",
       "/disability-guides/blindness/index.html",
+      "/disability-guides/chronic-neurological-conditions/index.html",
       "/disability-guides/Hearing-Impairment/index.html",
+      "/disability-guides/hemophilia/index.html",
+      "/disability-guides/intellectual-disability/index.html",
       "/disability-guides/Leprosy-cured-persons/index.html",
       "/disability-guides/locomotor-disabilities/index.html",
-      "/disability-guides/Low-vision/index.html"
+      "/disability-guides/Low-vision/index.html",
+      "/disability-guides/mental-illness/index.html",
+      "/disability-guides/muscular-distrophy/index.html",
+      "/disability-guides/parkinsons-disease/index.html",
+      "/disability-guides/sickle-cell-disease/index.html",
+      "/disability-guides/cerebral-palsy/index.html",
+      "/disability-guides/dwarfism/index.html",
+      "/disability-guides/multiple-disabilities/index.html",
+      "/disability-guides/multiple-sclerosis/index.html",
+      "/disability-guides/specific-learning-disabilities/index.html",
+      "/disability-guides/speech-and-language-disabilities/index.html",
+      "/disability-guides/thalassemia/index.html"
     ]
   }
 ]
