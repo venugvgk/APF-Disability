@@ -1,3 +1,6 @@
 # Directory
 
-This page is meant to host a directory of service providers. Service providers can be listed with attributes like city, locality, services provided (physiotherapy, speech therapy etc.), disabilities addressed, etc. to make it easy for users to search for appropriate service providers. 
+This page is the place host a directory of service providers. 
+
+Service providers are listed with attributes like city, locality, services provided (physiotherapy, speech therapy etc.), disabilities addressed, etc. to make it easy for users to search for appropriate service providers. 
+
