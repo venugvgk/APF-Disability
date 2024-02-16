@@ -588,11 +588,32 @@
     "text": "Preface\nPersons with Disabilities (PwD) are a hugely underserved population across the world. Despite the tremendous amount of work being done by both the government and non-government actors in the disability space in India, information about various aspects of disabilities is still out of the reach of many people who need it. In many cases, well known and credible sources of information are not India-specific. A lot of such information is not readily usable.\nDiversipedia is an attempt to provide India specific information related to the 21 disabilities listed in the Rights of PwD act, 2016. We aspire to provide readily usable information to all the stakeholders in the disability space, including Pwd, their caregivers, agencies working with them etc. Here, we cover the various aspects of disability, starting from perspectives on the meaning and implications of disability, to disability specific guides that provide specific information related issues across the lifecycle, to various governmental and non-governmental sources of support. Diversipedia also includes resources to learn more, provides a directory of service providers as well as forums where people can interact with each other.\nPlease get in touch with abcd@xyz to join this effort. Thank you!"
   },
   {
+    "objectID": "disability-guides/thalassemia/index.html",
+    "href": "disability-guides/thalassemia/index.html",
+    "title": "Thalassemia",
+    "section": "",
+    "text": "Thalassemia"
+  },
+  {
+    "objectID": "disability-guides/specific-learning-disabilities/index.html",
+    "href": "disability-guides/specific-learning-disabilities/index.html",
+    "title": "Specific Learning Disabilities",
+    "section": "",
+    "text": "Specific Learning Disabilities"
+  },
+  {
     "objectID": "disability-guides/parkinsons-disease/index.html",
     "href": "disability-guides/parkinsons-disease/index.html",
     "title": "Parkinson’s Disease",
     "section": "",
     "text": "Parkinson’s Disease"
+  },
+  {
+    "objectID": "disability-guides/multiple-sclerosis/index.html",
+    "href": "disability-guides/multiple-sclerosis/index.html",
+    "title": "Multiple Sclerosis",
+    "section": "",
+    "text": "Multiple Sclerosis"
   },
   {
     "objectID": "disability-guides/mental-illness/index.html",
@@ -1586,18 +1607,39 @@
     ]
   },
   {
+    "objectID": "disability-guides/cerebral-palsy/index.html",
+    "href": "disability-guides/cerebral-palsy/index.html",
+    "title": "Cerebral Palsy",
+    "section": "",
+    "text": "Cerebral Palsy"
+  },
+  {
+    "objectID": "disability-guides/dwarfism/index.html",
+    "href": "disability-guides/dwarfism/index.html",
+    "title": "Dwarfism",
+    "section": "",
+    "text": "Dwarfism"
+  },
+  {
     "objectID": "disability-guides/index.html",
     "href": "disability-guides/index.html",
     "title": "Disability Guides",
     "section": "",
-    "text": "Disability Guides\n\n\n\n\n\n\n\n\n\n\nAcid Attack Survivors\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAutism Spectrum Disorder\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlindness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChronic Neurological Conditions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHearing Impairment\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHemophilia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntellectual Disability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeprosy Cured Persons\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocomotor Disabiltieis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLow Vision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Illness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMuscular Distrophy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nParkinson’s Disease\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSickle Cell Disease\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Disability Guides\n\n\n\n\n\n\n\n\n\n\nAcid Attack Survivors\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAutism Spectrum Disorder\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlindness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCerebral Palsy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChronic Neurological Conditions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDwarfism\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHearing Impairment\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHemophilia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntellectual Disability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeprosy Cured Persons\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocomotor Disabilties\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLow Vision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Illness\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMultiple Disabilities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMultiple Sclerosis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMuscular Distrophy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nParkinson’s Disease\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSickle Cell Disease\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpecific Learning Disabilities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpeech and Language Disabilities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThalassemia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "disability-guides/locomotor-disabilities/index.html",
     "href": "disability-guides/locomotor-disabilities/index.html",
-    "title": "Locomotor Disabiltieis",
+    "title": "Locomotor Disabilties",
     "section": "",
-    "text": "Locomotor Disabiltieis"
+    "text": "Locomotor Disabilties"
+  },
+  {
+    "objectID": "disability-guides/multiple-disabilities/index.html",
+    "href": "disability-guides/multiple-disabilities/index.html",
+    "title": "Multiple Disabilities",
+    "section": "",
+    "text": "Multiple Disabilities"
   },
   {
     "objectID": "disability-guides/muscular-distrophy/index.html",
@@ -1612,6 +1654,13 @@
     "title": "Sickle Cell Disease",
     "section": "",
     "text": "Sickle Cell Disease"
+  },
+  {
+    "objectID": "disability-guides/speech-and-language-disabilities/index.html",
+    "href": "disability-guides/speech-and-language-disabilities/index.html",
+    "title": "Speech and Language Disabilities",
+    "section": "",
+    "text": "Speech and Language Disabilities"
   },
   {
     "objectID": "forums.html",
