@@ -1,0 +1,7 @@
+# Forums
+
+Forum is a place where questions can be asked and answered. 
+
+We set up a separate forum for each of the disabilities. Users are able to choose which forum they want to go to, from this page. 
+
+Each forum page provides an interface to ask and answer questions. Frequently asked questions can be setup and when a question is asked, previous related questions and answers can also be shown.  

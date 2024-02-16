@@ -16,6 +16,9 @@ website:
       - perspectives-on-disability.qmd
       - disability-guides/index.qmd
       - support.qmd
+      - resources.qmd
+      - directory.qmd
+      - forums.qmd
       - about.qmd
      
 
